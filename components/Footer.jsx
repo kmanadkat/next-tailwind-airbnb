@@ -18,12 +18,12 @@ function Footer() {
         <p>This is not a real site</p>
         <p>Its a pretty awesome clone</p>
         <p>Referrals accepted</p>
-        <p>Papafam</p>
+        <p>Krupeshfam</p>
       </div>
 
       <div className="space-y-4 text-sm text-gray-800">
         <h5 className="font-bold">HOST</h5>
-        <p>Papa React</p>
+        <p>Krupesh React</p>
         <p>Presents</p>
         <p>Zero to Full Stack hero</p>
         <p>Hundreds of Students</p>
